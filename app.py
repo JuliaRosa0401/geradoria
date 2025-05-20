@@ -38,7 +38,7 @@ def criar_receita(ingredientes):
             - 🟩 Livre
             - 🟨 (para 12 até 14 anos)
             - 🟥 (para 16 até 18 anos)
-            - Se houver temas sensíveis, adicione o ícone ⚠ seguido de um alerta breve e curto. Ex: ⚠ Uso de drogas.
+            - Se houver temas sensíveis, adicione o ícone ⚠ seguido de um alerta breve, curto e em cor branca. Ex: ⚠ Uso de drogas.
             - Tags temáticas como bolhas coloridas (ex: sci-fi, romance), com bordas arredondadas e fundo vibrante
             
 
