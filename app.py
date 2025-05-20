@@ -32,9 +32,9 @@ def criar_receita(ingredientes):
 
             - Título grande e negrito com <h1> Na cor branca e em destaque, chama atenção
             - Badge de nota no canto superior direito (ex: ⭐ 8.6), em amarelo com texto escuro e moderno
-            - Autor (livros) ou Diretor (filmes) com ícone 👤 e ano com ícone 📅 (letras brancas)
+            - Autor (livros) ou Diretor (filmes) com esse ícone 👤 e ano com esse ícone 📅 (letras brancas)
             - Sinopse envolvente em parágrafo curto 
-            - Faixa etária com ícone e legenda:
+            - Faixa etária com esse ícone e legenda:
             - 🟩 Livre
             - 🟨 (para 12 até 14 anos)
             - 🟥 (para 16 até 18 anos)
@@ -54,7 +54,7 @@ def criar_receita(ingredientes):
 
             
 
-            Não inclua scripts. Gere apenas o conteúdo HTML formatado com os elementos descritos. Não inclua html nem aspas 
+            Não inclua scripts. Gere apenas o conteúdo HTML formatado com os elementos descritos. Não inclua html nem aspas. deve usar os icones indicados 
         """
         
         # Envia o prompt para a API Gemini para gerar o conteúdo
