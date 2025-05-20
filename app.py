@@ -34,11 +34,11 @@ def criar_receita(ingredientes):
             - Badge de nota no canto superior direito (ex: ⭐ 8.6), em amarelo com texto escuro e moderno
             - Autor (livros) ou Diretor (filmes) com esse ícone 👤 e ano com esse ícone 📅 (letras brancas)
             - Sinopse envolvente em parágrafo curto 
-            - Faixa etária com apenas esse ícone e legenda:
+            - Faixa etária com apenas esse ícone e legenda com cor de letra branca:
             - 🟩 Livre
             - 🟨 (para 12 até 14 anos)
             - 🟥 (para 16 até 18 anos)
-            - Se houver temas sensíveis, adicione o ícone ⚠ seguido de um alerta breve, curto e em cor branca. Ex: ⚠ Uso de drogas.
+            - Se houver temas sensíveis, adicione o ícone ⚠ seguido de um alerta breve, curto e em cor de letras branca. Ex: ⚠ Uso de drogas.
             - Tags temáticas como bolhas coloridas (ex: sci-fi, romance), com bordas arredondadas e fundo vibrante
             
 
